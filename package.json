@@ -8,6 +8,9 @@
   "repository": "https://github.com/jalal246/cache-result.git",
   "author": "jalal246 <jimmy002020@gmail.com>",
   "license": "GPL-3.0",
+  "files": [
+    "src"
+  ],
   "keywords": [
     "lru",
     "quick",
