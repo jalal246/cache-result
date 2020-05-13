@@ -1,0 +1,15 @@
+{
+  "name": "cache-result",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/jalal246/cache-result.git",
+  "author": "jalal246 <jimmy002020@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
