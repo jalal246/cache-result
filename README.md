@@ -1,6 +1,6 @@
 # cache-result
 
-> You cache-result the results you know when to flush'em
+> You cache the results you know when to flush'em
 
 ```bash
 npm install cache-result
@@ -13,7 +13,7 @@ preserved.
 ## Usage
 
 ```js
-const cache = require("../src");
+const cache = require("cache-result");
 
 const { set, get, clear } = cache();
 ```
@@ -29,7 +29,7 @@ Each function take object input:
 
 ### `clear({ branch, key })`
 
-sTo delete the whole branch pass `clear({ branch })` without `key`
+To delete the whole branch pass `clear({ branch })` without `key`
 
 ```js
 const cache = require("../src");
